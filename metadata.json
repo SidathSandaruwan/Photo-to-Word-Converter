@@ -1,0 +1,6 @@
+{
+  "name": "TypePress",
+  "description": "Upload photos of typed text, detect the fonts and typographic hierarchy used, and export formatted Microsoft Word (.docx) documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
